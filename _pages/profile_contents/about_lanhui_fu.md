@@ -1,0 +1,1 @@
+He was a Ph.D. student under the supervision of Dr. Yanan Li, and now he is working at a company in China.

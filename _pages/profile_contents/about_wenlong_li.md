@@ -1,0 +1,3 @@
+<strong>BIO:</strong> Wenlong Li received the B.Eng. degree in electronic and electrical engineering from Southwest JiaoTong University, Chengdu, China, in 2018. He is currently working toward the Ph.D. degree in control engineering with the Department of Engineering and Design, University of Sussex, Sussex, U.K. 
+
+<strong>Research interests:</strong> His research interests include human–robot interaction, exoskeleton robot, and robot control. 

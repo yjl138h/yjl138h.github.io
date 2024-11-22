@@ -1,0 +1,3 @@
+<strong>BIO:</strong> Huayang Wu received the B.Eng. degree in Electrical Engineering and Automation from Wenzhou Business College, Wenzhou, Zhejiang, China, in 2020, and the M.Sc. degree in Robotics and Autonomous Systems from the University of Sussex, Brighton, U.K., in 2022, where he is currently pursuing a Ph.D. degree in Engineering.  
+
+<strong>Research interests:</strong> His research interests include human–robot interaction and human motor control. 

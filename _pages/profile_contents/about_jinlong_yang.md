@@ -1,3 +1,3 @@
-<strong>BIO:</strong> Jinlong Yang received the B.Eng. degree in electrical engineering and automation in 2021, and the M.Eng. degree in control science and engineering from the School of Electrical Engineering, Southwest Jiaotong University, Chengdu, China. He is currently pursuing a Ph.D. degree in Engineering with the Department of Engineering and Design, University of Sussex, Sussex, U.K. 
+<strong>BIO:</strong> Jinlong Yang received the B.Eng. degree in electrical engineering and automation in 2021, and the M.Eng. degree in control science and engineering from the School of Electrical Engineering, Southwest Jiaotong University, Chengdu, China. He is currently pursuing a Ph.D. degree in Engineering with the Department of Engineering and Design, University of Sussex, Brighton, U.K. 
 
 <strong>Research interests:</strong> His research interests include control applications in robotics and physical human–robot collaboration.  
