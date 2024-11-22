@@ -8,7 +8,7 @@ layout: page
         <hr>
         <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
           {% if profile.image %}
-            {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
+            {% assign profile_image_path = profile.image | prepend: 'assets/img/profile_pictures/' %}
             {% if profile.image_circular %}
               {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
             {% else %}
@@ -17,6 +17,11 @@ layout: page
             {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
             {% include figure.liquid loading="eager" path=profile_image_path class=profile_image_class sizes=sizes alt=profile.image %}
           {% endif %}
+          <div class="basic-info" %>
+            <p><b>{{profile.name}}</b></p>
+            <p>{{profile.title}}</p>
+            <p>Email: {{profile.email}}</p>
+          </div>
           {% if profile.more_info %}
             <div class="more-info">{{ profile.more_info }}</div>
           {% endif %}
@@ -24,7 +29,7 @@ layout: page
 
         <div class="clearfix">
           {% if profile.content %}
-            {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
+            {% capture profile_content %}{% include_relative profile_contents/{{ profile.content }} %}{% endcapture %}
             {{ profile_content | markdownify }}
           {% else %}
             {{ content }}
