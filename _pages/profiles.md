@@ -77,7 +77,7 @@ profiles:
     image: 
     content: about_chengzhi_zhu.md
     image_circular: False
-    name: Dr. Chengzhi Zhu 
+    name: Dr. Chengzhi Zhu (past)
     email: 
 
   - align: left
@@ -85,7 +85,7 @@ profiles:
     image: 
     content: about_jingkang_xia.md
     image_circular: False
-    name: Dr. Jingkang Xia
+    name: Dr. Jingkang Xia (past)
     email: 
 
   - align: left
@@ -93,7 +93,7 @@ profiles:
     image: 
     content: about_darong_huang.md
     image_circular: False
-    name: Dr. Darong Huang
+    name: Dr. Darong Huang (past)
     email: 
 
   - align: left
@@ -101,6 +101,6 @@ profiles:
     image: 
     content: about_lanhui_fu.md
     image_circular: False
-    name: Dr. Lanhui Fu
+    name: Dr. Lanhui Fu (past)
     email: 
 ---
