@@ -102,5 +102,21 @@ profiles:
     content: about_lanhui_fu.md
     image_circular: False
     name: Dr. Lanhui Fu (past)
+    email:
+
+    - align: left
+    status: 3
+    image: 
+    content: about_kamran_maqsood.md
+    image_circular: False
+    name: Dr. Kamran Maqsood
+    email:
+
+    - align: left
+    status: 3
+    image: 
+    content: about_xueyan_xing.md
+    image_circular: False
+    name: Dr. Xueyan Xing
     email: 
 ---
