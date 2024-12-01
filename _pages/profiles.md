@@ -26,7 +26,7 @@ profiles:
 
   - align: left
     status: 1
-    image: anonymous.jpg
+    image: colorpic_Kithmi.png
     content: about_kithmi_widanage.md
     image_circular: True
     name: Kithmi N. D. Widanage
@@ -34,7 +34,7 @@ profiles:
 
   - align: left
     status: 1
-    image: anonymous.jpg
+    image: colorpic_HuayangWu.jpg
     content: about_huayang_wu.md
     image_circular: True
     name: Huayang Wu
@@ -42,7 +42,7 @@ profiles:
 
   - align: left
     status: 1
-    image: anonymous.jpg
+    image: colorpic_WenlongLi.jpg
     content: about_wenlong_li.md
     image_circular: True
     name: Wenlong Li
@@ -58,7 +58,7 @@ profiles:
 
   - align: left
     status: 2
-    image: anonymous.jpg
+    image: colorpic_YilinLang.jpg
     content: about_yiling_lang.md
     image_circular: False
     name: Yiling Lang 
@@ -66,7 +66,7 @@ profiles:
 
   - align: left
     status: 2
-    image: anonymous.jpg
+    image: colorpic_YongdingZhang.png
     content: about_yongding_zhang.md
     image_circular: False
     name: Dr. Yongding Zhang 
