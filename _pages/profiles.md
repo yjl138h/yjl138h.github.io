@@ -94,8 +94,8 @@ profiles:
     content: about_darong_huang.md
     image_circular: False
     name: Dr. Darong Huang (past)
-    email: 
-
+    email:
+    
   - align: left
     status: 2
     image: 
@@ -104,7 +104,7 @@ profiles:
     name: Dr. Lanhui Fu (past)
     email:
 
-    - align: left
+  - align: left
     status: 3
     image: 
     content: about_kamran_maqsood.md
@@ -112,7 +112,7 @@ profiles:
     name: Dr. Kamran Maqsood
     email:
 
-    - align: left
+  - align: left
     status: 3
     image: 
     content: about_xueyan_xing.md
